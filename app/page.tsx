@@ -1,4 +1,4 @@
-import Home from './Homepage/home'
+import Home from '.'
 
 export default function Page() {
   return (
